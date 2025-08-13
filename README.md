@@ -15,6 +15,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RocTFjbjM0dXh0a25uc2k4cHZlNmRoaGF6MzRjZzRmb3N5eHA3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbE1p63ZvG3A2QJt06/giphy.gif" width="300" />
-</p>
